@@ -1,4 +1,4 @@
-<h1>Troubleshoot Common Problem for Windows</h1>
+<h1>Troubleshoot Common Problems for Windows</h1>
 <p align="center">
 <img src="https://www.securedatarecovery.com/Media/blog/2024/blue-screen-of-death-laptop.webp" alt="How To Fix a Blue Screen of Death (BSOD) on Windows PC"/>
 </p>
