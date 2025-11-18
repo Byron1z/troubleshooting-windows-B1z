@@ -37,6 +37,6 @@ For specific issues, restarting your router or using the Network Troubleshooter 
   
   - **Network issues**: Restart your modem and router. Use the Network Troubleshooter or flush the DNS cache by typing `ipconfig /flushdns` in an administrator Command Prompt.
   - **Startup or blue screen errors**: Start in `Safe Mode` to perform troubleshooting steps, such as checking Device Manager or updating drivers.
-  - **Slow performance**: Close unnecessary applications and browser tabs, disable unneeded startup programs, and even check for malware. 
+  - **Slow performance**: Close unnecessary applications and browser tabs, disable unneeded startup programs, and even check for **malware**❗️. 
 </p>
 
