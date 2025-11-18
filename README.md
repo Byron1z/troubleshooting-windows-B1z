@@ -19,6 +19,7 @@ For specific issues, restarting your router or using the Network Troubleshooter 
   - Monitor performance: Use Task Manager `Ctrl + Shift + Esc` to check for applications consuming excessive CPU, memory, or disk usage.
   - Check disk space: Ensure you have enough free space on your hard drive for the operating system and applications to function correctly. 
 </p>
+<br />
 
 <h2>Use built-in tools</h2>
 <p>
@@ -28,6 +29,7 @@ For specific issues, restarting your router or using the Network Troubleshooter 
   - **Check Disk**: In an administrator Command Prompt, run `chkdsk C: /f /x` (you may need to restart to run it) to check the C: drive for file system errors.
   - **Device Manager**: Right-click the Start button and select Device Manager. Look for warning icons (!), which indicate problems with hardware drivers that may need to be updated, disabled, or reinstalled. 
 </p>
+<br />
 
 <h2>Specific error types</h2>
 <p>
