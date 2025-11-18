@@ -27,7 +27,7 @@ For specific issues, restarting your router or using the Network Troubleshooter 
   
   - **Windows Troubleshooter**: Go to Settings > System > Troubleshoot > Other troubleshooters to run specific tools for issues like network, audio, or Windows Update problems.
   - **System File Checker**: Open Command Prompt as an administrator and type `sfc /scannow` to check and repair corrupted system files ✅️.
-  - **Check Disk**: In an administrator Command Prompt, run `chkdsk C: /f /x` (you may need to restart to run it) to check the C: drive for file system errors.
+  - **Check Disk**: In an administrator Command Prompt, run `chkdsk C: /f /x` (you may need to restart to run it) to check the **C: drive** for file system errors.
   - **Device Manager**: Right-click the Start button and select Device Manager. Look for warning icons (❗️), which indicate problems with hardware drivers that may need to be updated, disabled, or reinstalled. 
 </p>
 <br />
