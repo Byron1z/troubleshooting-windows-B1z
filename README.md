@@ -13,12 +13,12 @@ For specific issues, restarting your router or using the Network Troubleshooter 
 <h2>Common Troubleshooting steps</h2>
 <p>
   
-  - Restart: A simple restart can resolve many temporary issues.
-  - Update: Keep Windows and your drivers up to date to fix bugs and improve compatibility.
-  - Check hardware: Ensure all physical connections are secure. Reseat RAM and check cables if you have a new or persistent problem.
-  - Remove new hardware: If a problem started after adding a new component, try removing it and restarting the computer to see if the error is resolved.
-  - Monitor performance: Use Task Manager `Ctrl + Shift + Esc` to check for applications consuming excessive CPU, memory, or disk usage.
-  - Check disk space: Ensure you have enough free space on your hard drive for the operating system and applications to function correctly. 
+  - **Restart**: A simple restart can resolve many temporary issues.
+  - **Update**: Keep Windows and your drivers up to date to fix bugs and improve compatibility.
+  - **Check hardware**: Ensure all physical connections are secure. Reseat RAM and check cables if you have a new or persistent problem.
+  - **Remove new hardware**: If a problem started after adding a new component, try removing it and restarting the computer to see if the error is resolved.
+  - **Monitor performance**: Use Task Manager `Ctrl + Shift + Esc` to check for applications consuming excessive CPU, memory, or disk usage.
+  - **Check disk space**: Ensure you have enough free space on your hard drive for the operating system and applications to function correctly. 
 </p>
 <br />
 
